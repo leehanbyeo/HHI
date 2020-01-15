@@ -9,7 +9,7 @@
 4. 현대중공업 웹사이트를 대상으로 하였으며 반응형으로 리디자인 하였습니다.
 
 ##릴리즈 정보
-1. 안드로이드 버전은 [hhi 0.01 alpha](#)를 눌러서 다운로드 하실 수 있습니다.
+1. 안드로이드 버전은 [hhi 0.01 alpha](https://github.com/leehanbyeo/HHI/raw/master/hhi.apk)를 눌러서 다운로드 하실 수 있습니다.
 2. 웹 버전은 [여기](http://zmsquf789.dothome.co.kr/hhi)를 눌러 브라우저에서 이용할 수 있습니다.
 
 ## 후원
