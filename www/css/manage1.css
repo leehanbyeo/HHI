@@ -1,0 +1,29 @@
+#sfirst {
+    background-image: url(../images/phil_bg_0.gif);
+    background-repeat: no-repeat;
+    background-position: 95% 20%;
+    overflow: auto;
+}
+
+#sfirst h3 {
+    font-size: 22px;
+    color: #0c4da2;
+    margin-bottom: 5px;
+}
+
+#sfirst p {
+    font-size: 16px;
+    margin-bottom: 45px;
+}
+
+section ul {
+    margin-bottom: 40px;
+}
+
+section a {
+    color: #262626;
+}
+
+section a:hover {
+    color: #0c4da2;
+}

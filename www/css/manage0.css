@@ -1,0 +1,27 @@
+#ctf-box {
+    overflow: auto;
+    margin: 20px 10px;
+}
+
+#ctf-box h3 {
+    margin-top: 50px;
+    padding-left: 10px;
+    color: #0c4da2;
+    font-size: 23px;
+    font-weight: normal;
+}
+#ctf-box span {
+    color: #777;
+}
+
+#ctf-box div {
+    float: left;
+    width: calc((100% - 30px) / 3);
+    margin: 0px 5px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#ctf-box img {
+    max-width: 100%;
+}
